@@ -13,15 +13,6 @@ body{
     display: flex;
     justify-content:center;
 } 
-header{
-    font-size: 35px;
-    color: black;
-    border-bottom: solid 3px white;
-    padding: 20px;
-}
-h1{
-    font-size: 40px;
-}
 .chamada-texo{
     margin-right: 5%;
 }
